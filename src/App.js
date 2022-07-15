@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Design from "./Design/Design";
+import Designs from "./Designs/Designs";
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
     //   </header>
     // </div>
     <div>
-      <Design />
+      <Designs />
     </div>
   );
 }
